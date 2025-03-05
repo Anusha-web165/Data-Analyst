@@ -128,4 +128,4 @@ Known for tackling challenges with enthusiasm, excellent communication skills, p
 ---
 
 ### 🚀 **Want to see my work?**  
-🔗 **[[Live Power BI Reports]](https://app.powerbi.com/view?r=eyJrIjoiYzI0MTkzMTAtZTQ1ZC00MmY3LTk0MTMtYzE5ZjM4OTgxMWEyIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)(#)** | 🔗 **[GitHub Projects](#)** | 🔗 **[Portfolio Website](#)**  
+🔗 **[[Live Power BI Reports]](https://app.powerbi.com/view?r=eyJrIjoiYzI0MTkzMTAtZTQ1ZC00MmY3LTk0MTMtYzE5ZjM4OTgxMWEyIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)(#)** | 🔗 **[GitHub Projects](#)** | 🔗 **[[Portfolio Website](https://app.colaberry.com/app/cbpublic/cbpublic/1578/publicprojectinstructions)](#)**  | 🔗 **[[[Portfolio Website](https://app.colaberry.com/app/cbpublic/cbpublic/1493/casestudyprojectinstructions)](#)**
