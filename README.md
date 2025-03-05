@@ -1,6 +1,6 @@
 
 # Anusha Kayam - Power BI Developer  
-**Email:** anumounisha.07@gmail.com | **LinkedIn:** [Your LinkedIn Profile] | **Phone:** +1 469 431 6075  
+**Email:** anumounisha.07@gmail.com | **LinkedIn:** [Your LinkedIn Profile] | **Phone:** +1 4697271478
 
 ---
 
@@ -96,22 +96,27 @@ Known for tackling challenges with enthusiasm, excellent communication skills, p
 
 ## **Projects**  
 
-### **1. Inventory Optimization Project**  
+
+### **1. Power BI Reporting & Dashboards**  
+- Developed a **multi-page Power BI dashboard** for an enterprise analytics solution.  
+- Created a **Predictive Analytics Dashboard** for churn analysis and intern engagement.  
+- Integrated **SurveyMonkey & SQL data sources** for survey insights.  
+
+
+### **2. Customer Churn Analysis**  
+- **Customer Segmentation:** – Breakdown of customers by Low, Medium, and High Risk.
+- **Retention Strategy Insights:** – Suggested actions for high-risk customers.
+- **Trend Analysis:** – Historical churn trends and policy adjustments.
+- **KPIs:** – Churn Rate, Retention Rate, High-Risk Customer Count, Customer Lifetime Value.
+- [**View Case Study**](#)
+
+  
+### **3. Inventory Optimization Project**  
 - **Problem:** Inefficient procurement and high inventory costs.  
 - **Solution:** Analyzed historical order patterns and optimized procurement strategies.  
 - **Results:** Potential cost savings of **$136K annually** and an **ROI of 11%**.  
 - [**View Case Study**](#)  
 
-### **2. Intern Churn Analysis**  
-- **Problem:** High intern dropout rates affecting company productivity.  
-- **Solution:** Machine Learning model to predict at-risk interns.  
-- **Results:** Improved intern retention by **predicting 99.6% accurate churn rates**.  
-- [**View Case Study**](#)  
-
-### **3. Power BI Reporting & Dashboards**  
-- Developed a **multi-page Power BI dashboard** for an enterprise analytics solution.  
-- Created a **Predictive Analytics Dashboard** for churn analysis and intern engagement.  
-- Integrated **SurveyMonkey & SQL data sources** for survey insights.  
 
 ---
 
