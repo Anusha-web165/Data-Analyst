@@ -1,0 +1,21 @@
+# Healthcare Project - Power BI Analytics
+
+## Overview
+This project focuses on healthcare data analysis using Power BI. It includes KPI identification, insights from survey and operational data, and dashboards to help stakeholders improve patient care and operational efficiency.
+
+## Files Included
+- `KPI.jpeg`: Key performance indicators tracked in the project.
+- `Data dictionary.jpeg`: Explanation of data columns used.
+- `Health Care Analytics`: Final report or dashboard export.
+- `Problems.jpg`: Problem statement and challenges identified.
+- `Positive Insights.jpeg`: Positive findings from the data.
+- `Negative insights.jpeg`: Areas of concern highlighted.
+
+## Tools Used
+- Power BI
+-SQL
+-Microsoft Fabric
+- Excel (for initial data cleaning)
+## Key Learnings
+- Created visually engaging dashboards to support healthcare decision-making.
+- Developed insights around operational inefficiencies and improvement areas.
