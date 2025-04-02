@@ -1,6 +1,6 @@
 
 # Anusha Kayam - Power BI Developer  
-**Email:** anumounisha.07@gmail.com | **LinkedIn:** [Your LinkedIn Profile] | **Phone:** +1 4697271478
+**Email:** anumounisha.07@gmail.com | **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/anusha-kayam/) | 
 
 ---
 
@@ -86,7 +86,7 @@ Known for tackling challenges with enthusiasm, excellent communication skills, p
 
 ## **Technical Skills**  
 
-- **BI/ETL Tools:** Power BI, SSRS, Power BI Report Builder, SSIS, T-SQL, Stored Procedures, Microsoft Fabric  
+- **BI/ETL Tools:** Power BI, SSRS, Power BI Report Builder, SSIS, T-SQL, Tableau, Microsoft Fabric  
 - **Databases:** SQL Server, Snowflake, Oracle  
 - **Languages:** SQL, PL/SQL, Python  
 - **Office Tools:** MS Word, PowerPoint, Excel, SharePoint, Outlook  
@@ -108,14 +108,14 @@ Known for tackling challenges with enthusiasm, excellent communication skills, p
 - **Retention Strategy Insights:** – Suggested actions for high-risk customers.
 - **Trend Analysis:** – Historical churn trends and policy adjustments.
 - **KPIs:** – Churn Rate, Retention Rate, High-Risk Customer Count, Customer Lifetime Value.
-- [**View Case Study**](#)
+
 
   
 ### **3. Inventory Optimization Project**  
 - **Problem:** Inefficient procurement and high inventory costs.  
 - **Solution:** Analyzed historical order patterns and optimized procurement strategies.  
 - **Results:** Potential cost savings of **$136K annually** and an **ROI of 11%**.  
-- [**View Case Study**](#)  
+- [**View Case Study**https://app.colaberry.com/app/cbpublic/cbpublic/1578/publicprojectinstructions](#)  
 
 
 ---
@@ -128,4 +128,4 @@ Known for tackling challenges with enthusiasm, excellent communication skills, p
 ---
 
 ### 🚀 **Want to see my work?**  
-🔗 **[[Live Power BI Reports]](https://app.powerbi.com/view?r=eyJrIjoiYzI0MTkzMTAtZTQ1ZC00MmY3LTk0MTMtYzE5ZjM4OTgxMWEyIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)(#)** | 🔗 **[GitHub Projects](#)** | 🔗 **[[Portfolio Website](https://app.colaberry.com/app/cbpublic/cbpublic/1578/publicprojectinstructions)](#)**  | 🔗 **[[[Portfolio Website](https://app.colaberry.com/app/cbpublic/cbpublic/1493/casestudyprojectinstructions)](#)**
+🔗 **[[Live Power BI Reports]](https://app.powerbi.com/view?r=eyJrIjoiYzI0MTkzMTAtZTQ1ZC00MmY3LTk0MTMtYzE5ZjM4OTgxMWEyIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)(https://app.powerbi.com/view?r=eyJrIjoiNmNjZGZlOGItYWU1NS00MjEzLWI5ZjYtNmVjZGVkZmVkYzZlIiwidCI6IjY0MmQ3NTVmLWE4ZmUtNDVmMi1hNWQ4LTk5ZWM0YWU5ZmRmOSJ9)((#)** | 🔗 **[GitHub Projects](#)** | 🔗 **[[Portfolio Website](https://app.colaberry.com/app/cbpublic/cbpublic/1578/publicprojectinstructions)](#)**  | 🔗 **[[[Portfolio Website](https://app.colaberry.com/app/cbpublic/cbpublic/1493/casestudyprojectinstructions)](#)**
